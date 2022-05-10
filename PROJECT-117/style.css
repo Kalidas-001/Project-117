@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+#score{
+    font-size: large;
+    float: left;
+
+}
+
+#timer{
+    float: right;
+    margin-right: 300 px;
+
+}
+
+#sketch{
+    color: blue;
+    font-size: large;
+}
